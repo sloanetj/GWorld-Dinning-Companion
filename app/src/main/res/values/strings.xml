@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MapTest</string>
+    <string name="title">Restaurant Types</string>
+    <string name="foodCat1">Burgers</string>
+    <string name="foodCat2">Pizza</string>
+    <string name="foodCat3">Chinese</string>
+    <string name="foodCat4">Sushi</string>
+    <string name="foodCat5">Indian</string>
+    <string name="foodCat6">Salad</string>
+    <string name="searchTag">Search Area (meters):</string>
+    <string name="area_hint">1500</string>
+    <string name="findRestaurantsButton">Find Restaurants</string>
+    <string name="map_label">Map</string>
+    <string name="yelp_button">See Yelp Page</string>
+    <string name="see_reviews_button">Choose Location</string>
+
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main">Find Restaurants</string>
+    <string name="title_activity_yelp">Yelp Reviews</string>
+
+
+
+</resources>

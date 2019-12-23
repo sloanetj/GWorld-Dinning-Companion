@@ -1,0 +1,4 @@
+#Sun Nov 03 13:46:33 EST 2019
+base.0=/Users/jack/AndroidStudioProjects/MapTest/app/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
